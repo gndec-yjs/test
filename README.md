@@ -73,13 +73,13 @@
   <!-- Sidebar -->
   <div id="mySidebar" class="sidebar">
     <span class="closebtn" onclick="closeNav()">×</span>
-    <a href="#">Link 1</a>
-    <a href="#">Link 2</a>
-    <a href="#">Link 3</a>
+    <a href="#">Homepage</a>
+    <a href="#">Publications</a>
+    <a href="#">Qualification</a>
   </div>
 
   <!-- Open Button -->
-  <button class="openbtn" onclick="openNav()">☰ Menu</button>
+  <button class="openbtn" onclick="openNav()">☰ </button>
 
   <!-- Page Content -->
   <div class="content">
@@ -97,3 +97,10 @@
   </script>
 </body>
 </html>
+
+<div class="topnav">
+  <a href="#">Home</a>
+  <a href="#">Docs</a>
+  <a href="#">Projects</a>
+  <a href="#">Contact</a>
+</div>
